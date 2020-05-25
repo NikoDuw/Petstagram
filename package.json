@@ -1,0 +1,15 @@
+{
+  "name": "petstagram",
+  "version": "1.0.0",
+  "description": "petstagram a simple html site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Nicolás Dussán <bndm1410@gmail.com>",
+  "license": "MIT"
+}
